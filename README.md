@@ -110,6 +110,3 @@
             document.getElementById('hiddenMessage').style.display = 'block';
         }
     </script>
-</body><i>
-</html>
-}
