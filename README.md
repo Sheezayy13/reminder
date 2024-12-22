@@ -97,11 +97,13 @@
 </head>
 <body><i>
     <div class="container">
-        <h1 class="title">  Quick reminder for My Baby</h1>
+        <h1 class="title">My Baby Love</h1>
         <p class="message">Hey love! i Just wanted to remind you...</p>
-        <button class="button" onclick="showMessage()">touch this heart like you touched mine ❤️</button>
+        <button class="button" onclick="showMessage()"> click me ❤️</button>
         <p class="hidden-message" id="hiddenMessage">i love you more than i can say in words baby ..  
-           i love you more than warm blankets in winter ....More than snow loves chiku...more than getting my favorite chocolates in cramps 
+           i love you more than warm blankets in winter ....
+            More than snow loves chiku...
+            more than getting my favorite chocolates in cramps 
           I love you sooo much! <span class="heart"></span></p>
     </div>
 
